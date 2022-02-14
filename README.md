@@ -1,2 +1,1 @@
-# KatasPython
- Katas LaunchX
+# Lunch X Inovacion
